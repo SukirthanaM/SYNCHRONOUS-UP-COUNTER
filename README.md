@@ -1,4 +1,4 @@
-### SYNCHRONOUS-UP-COUNTER
+### SYNCHRONOUS UP COUNTER
 
 **AIM:**
 
@@ -28,7 +28,17 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
 **Procedure**
 
-/* write all the steps invloved */
+/* 
+1.Type the program in Quartus software.
+
+2.Compile and run the program.
+
+3.Generate the RTL schematic and save the logic diagram.
+
+4.Create nodes for inputs and outputs to generate the timing diagram.
+
+5.For difference input combination generate the timing diagram.
+*/
 
 **PROGRAM**
 
@@ -57,6 +67,7 @@ endmodule
 ![image](https://github.com/user-attachments/assets/3fd6c8ab-a5dd-4bd7-bd00-72c0d73bc6c1)
 
 **TRUTH TABLE**
+![image](https://github.com/user-attachments/assets/7efc8a50-8790-40e6-936e-e8e900fe28a8)
 
 **RESULTS**
 Hence synchronous up counter is implemented successfully.
